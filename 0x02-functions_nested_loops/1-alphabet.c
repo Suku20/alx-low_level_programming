@@ -3,6 +3,7 @@
 /**
  * print_alphabet - prints the alpha in lower case
  */
+
 void print_alphabet(void)
 {
 	char la;
@@ -11,4 +12,4 @@ void print_alphabet(void)
 		_putchar(la);
 
 	_putchar('\n');
-
+}
