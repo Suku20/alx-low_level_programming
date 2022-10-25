@@ -12,3 +12,4 @@ void swap_int(int *a, int *b)
 	q = *a;
 	*a = *b;
 	*b = q;
+}
